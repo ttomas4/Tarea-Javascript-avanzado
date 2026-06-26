@@ -41,3 +41,9 @@ Funcionamiento de "Cargar tareas" en consola:
 <img width="853" height="49" alt="image" src="https://github.com/user-attachments/assets/7bbf28d8-0bd7-4872-9497-cbedb61fd029" />
 
 
+Foto usada para el background: "<img width="1920" height="1080" alt="pexels-jaymantri-5439" src="https://github.com/user-attachments/assets/d0286265-5526-427e-b6e7-fa3460cc4d96" />"
+
+
+Fuente: "https://www.pexels.com/es-es/foto/tierra-espacio-universo-cosmos-5439/"
+
+
