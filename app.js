@@ -115,9 +115,9 @@ function cargarTareas(){
 
                 new Tarea(1,"Estudiar JavaScript",true),
 
-                new Tarea(2,"Hacer la tarea",false),
+                new Tarea(2,"Practicar CSS",false),
 
-                new Tarea(3,"Practicar Async Await",true)
+                new Tarea(3,"Programar",true)
 
             ]);
 
